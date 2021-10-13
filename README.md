@@ -1,2 +1,2 @@
-# Netflix_EDA-ML
+# Netflix EDA & ML
 First ML Project - Using Netflix Data

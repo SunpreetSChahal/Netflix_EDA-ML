@@ -16,6 +16,6 @@ Main libraries used in this project:
   - Numpy
   - Matplotlib
 
-<img src="C:\Users\ssc44611\Documents\L4 Projects\1. Netflix (Personal Proj) - ML Focus\Netflix Logo.jpg">
+
 
 

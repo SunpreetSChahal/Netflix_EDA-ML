@@ -1,6 +1,6 @@
-# Netflix EDA & ML
+## Netflix EDA & ML
 
-## Project Objectives: 
+Project Objectives: 
   - Build a model which will recommend relevant shows and movies
   - Complete EDA on:
     - Most common genres

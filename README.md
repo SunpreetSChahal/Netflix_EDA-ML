@@ -1,8 +1,19 @@
 # Netflix EDA & ML
 
-The project's focus is to use data gathered from Netflix, to go and predict relevant movies or shows.
-  - The viewer watches "Goodfellas" - what other movies or shows would the viewer like to see, relative to what they already watch.
+The project's focus is to use Netflix's data on movies and shows on their platform.
+
+Project Objectives: 
+  - Build a model which will recommend relevant shows and movies
+  - Complete EDA on:
+    - Most common genres
+    - Content types by country
   
-This project will allow me to develop further knowledge in ML, primary NLP - where I use libraries such as NLTK for the end prediction model and for EDA on content within different countries or continents. 
+This project will allow me to develop further knowledge in ML, primarily NLP.
+
+Main libraries used in this project:
+  - NLTK
+  - Pandas
+  - Numpy
+  - Matplotlib
 
 

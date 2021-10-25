@@ -16,6 +16,4 @@ Main libraries used in this project:
   - Numpy
   - Matplotlib
 
-
-
-
+![Netflix Logo](Netflix Logo.jpg)

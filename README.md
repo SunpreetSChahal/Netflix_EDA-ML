@@ -12,8 +12,12 @@ This project will allow me to develop further knowledge in ML, primarily NLP.
 
 Main libraries used in this project:
   - NLTK
+  - SkLearn
+  - WordCloud
   - Pandas
   - Numpy
   - Matplotlib
+
+Well labelled/commented for easy-to-understand future reference. 
 
 ![Netflix Logo](https://cdn0.vox-cdn.com/thumbor/LoR2z1xdNlLCw9vWrpZCcgCNoXc=/0x133:3151x1905/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49901753/netflixlogo.0.0.png)

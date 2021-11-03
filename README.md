@@ -3,8 +3,10 @@
 Project Objectives: 
   - Build a model which will recommend relevant shows and movies
   - Complete EDA on:
-    - Most common genres
-    - Content types by country
+    - Most common genres - TV Shows & Movies
+    - Most common decription terms - TV Shows & Movies
+    - Commonly appearing actors - Movies, NOT for TV Shows (Reasoning provided in notebook)
+    - Most common ratings - TV Shows & Movies
   
 The project's focus is to use Netflix's data on movies and shows on their platform.
 
